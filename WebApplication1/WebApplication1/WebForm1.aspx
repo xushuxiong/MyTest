@@ -12,7 +12,10 @@
         <div>
             <asp:Button ID="Button1" runat="server" Text="Button" />
             <asp:Image ID="Image1" runat="server" />
-            <asp:Panel ID="Panel1" runat="server">
+            <asp:Repeater ID="Repeater1" runat="server">
+            </asp:Repeater>
+            <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+            dwffedgvdvdv<asp:Panel ID="Panel1" runat="server">
             </asp:Panel>
         </div>
     </form>
