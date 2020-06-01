@@ -12,6 +12,7 @@
         <div>
             <asp:Button ID="Button1" runat="server" Text="Button" />
             <asp:Image ID="Image1" runat="server" />
+            <asp:Literal ID="Literal1" runat="server"></asp:Literal>
         </div>
     </form>
 </body>
